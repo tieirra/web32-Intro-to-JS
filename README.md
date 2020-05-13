@@ -7,6 +7,7 @@ The module challenge is the afternoon project or assignment that students work t
 ## JavaScript Foundations
 
 ## Objectives
+Tieirra Singleton
 
 - use let, const, var and demonstrate their differences.
 - understand and be able to use different operators.
